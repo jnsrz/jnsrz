@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello, I'm Jose
+<a href="https://www.linkedin.com/in/jose-neil-suarez-2a83a41a1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**jnsrz/jnsrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a career shifter with a profound interest in technology and a dedication to solving complex problems.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey in fiber network design industry has led me to develop a passion for networking and IT industry, and I am now eager to transition into this field.
+
+## Skills
+
+
+## Tools
+
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+ 
+</div>
+
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-CCNA-003366?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>
+
+## Projects
+-Active Directory
